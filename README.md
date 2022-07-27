@@ -1,5 +1,4 @@
 ### Hi there 👋,  My name is Yujin
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 - 🌱 I’m currently learning Computer Science in Chungnam National University 
