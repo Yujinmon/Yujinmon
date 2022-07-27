@@ -1,7 +1,7 @@
 ### Hi there 👋,  My name is Yujin
 
 
-- 🌱 I’m currently learning Computer Science in Chungnam National University 
+- 🌱 I’m currently studying Computer Science in Chungnam National University 
 - 📫 How to reach me: Trixie@o.cnu.ac.kr 
 
 
