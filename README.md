@@ -14,9 +14,6 @@
             <td><div style="border: 1px solid gold; float: left; width: 50%;">
   <a href="https://solved.ac/yujinmon"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yujinmon"/></a>
 </div></td>
-            <td><div style="border: 1px solid gold; float: left; width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujinmon&show_icons=true&theme=transparent"/>
-</div></td>
         </tr>
     </tbody>
 </table>
