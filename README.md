@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently majoring Computer Science in Chungnam National University 
-- 💙 Studying in https://cnu-ants.github.io/index.html as undergraduate research student
+- 💙 Studying in https://cnu-ants.github.io/index.html as M.S student
 - 📫 How to reach me: Trixie@o.cnu.ac.kr 
 - :computer:Interested in problem solving and llvm!
 
